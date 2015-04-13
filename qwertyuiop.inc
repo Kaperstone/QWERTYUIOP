@@ -1,4 +1,3 @@
-// The Original Author : Y_Less
 #include <YSI\y_groups>
 #include <YSI\y_dialog>
 #include <YSI\y_commands>
